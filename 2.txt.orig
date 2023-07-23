@@ -1,4 +1,6 @@
 well well hello there
+<<<<<<< HEAD
 merge confilct 1
+=======
 merge conflict check via f2
-
+>>>>>>> f2
